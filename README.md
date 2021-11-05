@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/JoseCassioSantos">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JoseCassioSantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCassioSantos&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCassioSantos&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
 
 <!--
