@@ -1,4 +1,8 @@
 ### Eu sou a Cassio 👋
+<div>
+    <img src="web.png" height="50px" alt="web">
+   
+</div>
 
 <div>
   <a href="https://github.com/JoseCassioSantos">
@@ -6,10 +10,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCassioSantos&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
-<div>
-    <img src="web.png" height="100px" alt="web">
-   
-</div>
+
 <!--
 **JoseCassioSantos/JoseCassioSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
