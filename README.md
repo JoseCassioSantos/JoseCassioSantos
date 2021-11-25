@@ -7,9 +7,8 @@
 </div>
 
 <div>
-    <img src="http://placehold.it/" alt="html">
-    <img src="http://placehold.it/" alt="javascript">
-    <img src="http://placehold.it/" alt="css">
+    <img src="/src/web code.bng" alt="web">
+   
 </div>
 <!--
 **JoseCassioSantos/JoseCassioSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
