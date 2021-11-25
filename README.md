@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <img src="/src/web code.bng" alt="web">
+    <img src="web.png" alt="web">
    
 </div>
 <!--
