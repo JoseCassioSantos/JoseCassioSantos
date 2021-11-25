@@ -6,6 +6,11 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCassioSantos&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
+<div>
+    <img src="http://placehold.it/" alt="html">
+    <img src="http://placehold.it/" alt="javascript">
+    <img src="http://placehold.it/" alt="css">
+</div>
 <!--
 **JoseCassioSantos/JoseCassioSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
