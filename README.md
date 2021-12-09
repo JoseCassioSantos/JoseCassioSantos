@@ -1,4 +1,4 @@
-### Eu sou a Cassio 👋
+### Eu sou Cassio 👋
 <div>
      <a href="https://github.com/JoseCassioSantos">
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
